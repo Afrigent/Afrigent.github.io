@@ -766,3 +766,12 @@ input[type="submit"]:hover {
 .form{
   padding: 60px 0px;
 }
+
+@media only screen and (max-width: 900px){
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+}
