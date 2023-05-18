@@ -1,0 +1,30 @@
+NO It’s Not Like That!!!
+
+Having a Stop Loss Level means that I am accepting the loss probability to a
+certain extent, I have determined my position and I have taken control over my
+fear of facing a loss in trade by implementing a Stop Loss...
+
+I have a Practical Assessment Here For You...
+
+Login to your TradingView account
+
+Open any chart of your choice
+
+Use Paper Trading Mode
+
+Select 5-Minute Time Frame
+
+Use EMA 5 and EMA 10 and EMA 20
+
+Add Bollinger Band to see Direction of Trade
+Trade Bullish or Bearish Crossover Accordingly
+
+You have to take 20 trades but take next trade only when previous is over
+Keep Stop Loss at EMA 20 and Profit at Reverse Crossover of 5 and 10.
+
+Control Your Fear and See What Happens?
+
+What was your brain focusing on.... If you were focussing only on Looses then
+you would have ended up with a Negative Balance!
+
+Trading MindSet - JyotiBansalAnalysis 23
